@@ -10,7 +10,7 @@ public class SplashScreen extends AppCompatActivity {
 
     ImageView icon;
     public static int SPLASH_TIME_OUT = 3500;
-//jhgfg
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
